@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# TIC TAC TOE
+A complete tic tac toe game using typescript, the tsx files can be found in components.
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
